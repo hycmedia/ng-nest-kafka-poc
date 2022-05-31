@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "api": "apps/api",
+    "api-interfaces": "libs/api-interfaces",
+    "ng-nest-kafka-starter": "apps/ng-nest-kafka-starter",
+    "ng-nest-kafka-starter-e2e": "apps/ng-nest-kafka-starter-e2e"
+  }
+}
